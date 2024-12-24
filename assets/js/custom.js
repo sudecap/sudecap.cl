@@ -585,7 +585,7 @@ jQuery(document).ready(function ($) {
     const 
     phone = `+56977252622`,
     phone_2 = ``, 
-    email = `info@sudecap.com.ar`, 
+    email = `info@sudecap.cl`, 
     address = `Emilio Aldunate 2748, Peñalolén.`
 
 
